@@ -1,7 +1,8 @@
 # Image Upload
 In this challenge, you will create a versatile and user-friendly image uploader using the React.js component. This component should support both single and multiple image uploads, providing a seamless user experience. It should include robust interaction features, such as Drag-and-drop functionality for easy file selection and also Image management capabilities like cropping, removing, and selection.
 
-Hosted Link:(https://image-uploade.netlify.app/).
+Hosted Link: (https://image-uploade.netlify.app/)
+
 Demo Video: https://www.loom.com/share/de99d6918a964fd9b7705fede5ab25cd?sid=20bec334-8227-4736-82c8-b380132f25f2
 
 ## Available Scripts
